@@ -4,7 +4,7 @@ A modified version of the popular [Spacegray](https://github.com/kkga/spacegray)
 
     Original Spacegray     |        Spaceblack
 :-------------------------:|:-------------------------:
-![Spacegray](https://raw.githubusercontent.com/saadq/Spaceblack/master/Screenshots/Spacegray%20Screenshot.png)  |  ![Spaceblack](https://raw.githubusercontent.com/saadq/Spaceblack/master/Screenshots/Spaceblack%20Screenshot.png)
+![Spacegray](https://raw.githubusercontent.com/saadq/Spaceblack/master/Screenshots/Spacegray%20Screenshot.png)  |  ![Spaceblack](https://raw.githubusercontent.com/saadq/Spaceblack/master/Screenshots/Spaceblack.png)
 
 #### Installation
 
