@@ -4,9 +4,15 @@ A modified version of the popular [Spacegray](https://github.com/kkga/spacegray)
 
 ***
 
+#### Spaceblack with Spaceblack.tmTheme
+
 ![image](Screenshots/Spaceblack.png)
 
-*The font used in the screenshot is [__Source Code Pro__](https://github.com/adobe/Source-Code-Pro).*
+#### Spaceblack with Spaceblack-alt.tmTheme
+
+![image](Screenshots/Spaceblack-alt.png)
+
+*The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe/Source-Code-Pro).*
 
 ***
 
@@ -41,6 +47,14 @@ You can activate the theme and color scheme by modifying your Preferences-User f
   "color_scheme": "Packages/Theme - Spaceblack/Spaceblack.tmTheme"
 }
 ```
+
+***
+
+### Contributors
+
+* [TheBaronHimself](http://www.github.com/TheBaronHimself) ([Twitter](http://www.twitter.com/TheBaronHimself)) 
+  * Created the Spacegray-alt.tmTheme
+  * Added improvements to Spaceblack.sublime-theme
 
 ***
 
