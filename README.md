@@ -48,11 +48,20 @@ You can activate the theme and color scheme by modifying your Preferences-User f
 }
 ```
 
+#### Settings for Spaceblack with the alternate color scheme
+
+```json
+{
+  "theme": "Spaceblack.sublime-theme",
+  "color_scheme": "Packages/Theme - Spaceblack/Spaceblack-alt.tmTheme"
+}
+```
+
 ***
 
 ### Contributors
 
-* [TheBaronHimself](http://www.github.com/TheBaronHimself) ([Twitter](http://www.twitter.com/TheBaronHimself)) 
+* Simon-Claudius Wystrach ([Github](http://www.github.com/TheBaronHimself) | [Twitter](http://www.twitter.com/TheBaronHimself)) 
   * Created the Spacegray-alt.tmTheme
   * Added improvements to Spaceblack.sublime-theme
 
