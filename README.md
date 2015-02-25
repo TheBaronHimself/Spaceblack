@@ -63,7 +63,7 @@ You can activate the theme and color scheme by modifying your Preferences-User f
 ### Contributors
 
 * Simon-Claudius Wystrach ([Github](http://www.github.com/TheBaronHimself) | [Twitter](http://www.twitter.com/TheBaronHimself)) 
-  * Created the Spacegray-alt.tmTheme
+  * Created the Spaceblack-alt.tmTheme
   * Added improvements to Spaceblack.sublime-theme
 
 ***
