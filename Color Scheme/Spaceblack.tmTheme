@@ -360,7 +360,7 @@
       <key>name</key>
       <string>Link Text</string>
       <key>scope</key>
-      <string>string.other.link</string>
+      <string>string.other.link, punctuation.definition.string.end.markdown</string>
       <key>settings</key>
       <dict>
         <key>foreground</key>
