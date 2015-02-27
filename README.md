@@ -45,7 +45,7 @@ You can activate the theme and color scheme by modifying your Preferences-User f
 ```json
 {
   "theme": "Spaceblack.sublime-theme",
-  "color_scheme": "Packages/Theme - Spaceblack/Spaceblack.tmTheme"
+  "color_scheme": "Packages/Theme - Spaceblack/Color Scheme/Spaceblack.tmTheme"
 }
 ```
 
@@ -54,7 +54,7 @@ You can activate the theme and color scheme by modifying your Preferences-User f
 ```json
 {
   "theme": "Spaceblack.sublime-theme",
-  "color_scheme": "Packages/Theme - Spaceblack/Spaceblack-alt.tmTheme"
+  "color_scheme": "Packages/Theme - Spaceblack/Color Scheme/Spaceblack-alt.tmTheme"
 }
 ```
 
