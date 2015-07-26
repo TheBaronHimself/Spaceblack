@@ -31,9 +31,9 @@
         <key>background</key>
         <string>#1A1D23</string>
         <key>caret</key>
-        <string>#c0c5ce</string>
+        <string>#d8d8d8</string>
         <key>foreground</key>
-        <string>#c0c5ce</string>
+        <string>#d8d8d8</string>
         <key>invisibles</key>
         <string>#65737e</string>
         <key>lineHighlight</key>
@@ -50,7 +50,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#c0c5ce</string>
+        <string>#d8d8d8</string>
       </dict>
     </dict>
     <dict>
@@ -72,7 +72,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#c0c5ce</string>
+        <string>#d8d8d8</string>
       </dict>
     </dict>
     <dict>
@@ -83,7 +83,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#c0c5ce</string>
+        <string>#d8d8d8</string>
       </dict>
     </dict>
     <dict>
@@ -94,7 +94,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#c0c5ce</string>
+        <string>#d8d8d8</string>
       </dict>
     </dict>
     <dict>
@@ -116,6 +116,17 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
+        <string>#d8d8d8</string>
+      </dict>
+    </dict>
+    <dict>
+      <key>name</key>
+      <string>"this" keyword</string>
+      <key>scope</key>
+      <string>variable.language.this.js</string>
+      <key>settings</key>
+      <dict>
+        <key>foreground</key>
         <string>#bf616a</string>
       </dict>
     </dict>
@@ -127,7 +138,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#8fa1b3</string>
+        <string>#7cafc2</string>
       </dict>
     </dict>
     <dict>
@@ -160,7 +171,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#8fa1b3</string>
+        <string>#7cafc2</string>
       </dict>
     </dict>
     <dict>
@@ -182,7 +193,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#96b5b4</string>
+        <string>#86c1b9</string>
       </dict>
     </dict>
     <dict>
@@ -270,7 +281,7 @@
       <key>settings</key>
       <dict>
         <key>foreground</key>
-        <string>#8fa1b3</string>
+        <string>#7cafc2</string>
       </dict>
     </dict>
     <dict>
@@ -305,7 +316,7 @@
         <key>fontStyle</key>
         <string />
         <key>foreground</key>
-        <string>#8fa1b3</string>
+        <string>#7cafc2</string>
       </dict>
     </dict>
     <dict>
@@ -410,7 +421,7 @@
         <key>background</key>
         <string>#4f5b66</string>
         <key>foreground</key>
-        <string>#c0c5ce</string>
+        <string>#d8d8d8</string>
       </dict>
     </dict>
     <dict>
