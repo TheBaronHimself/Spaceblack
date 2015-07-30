@@ -47,7 +47,7 @@ You can activate the theme and color scheme by modifying your Preferences-User f
   "theme": "Spaceblack.sublime-theme",
   "color_scheme": "Packages/Theme - Spaceblack/Color Scheme/Spaceblack.tmTheme"
 }
-
+```
 
 #### Settings for Spaceblack with the alternate color scheme
 
