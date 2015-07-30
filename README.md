@@ -61,7 +61,7 @@ You can activate the theme and color scheme by modifying your Preferences-User f
 ***
 
 ### User Settings
-Use the following (optional) settings to modify aspects of the theme. Per element, copy and paste one of the following lines of into your user preferences file.
+Use the following (optional) settings to modify aspects of the theme. Per element, copy and paste one of the following lines into your user preferences file.
 
 #### Tab labels font size
 
@@ -146,7 +146,7 @@ Tab height:
 * Simon-Claudius Wystrach ([Github](http://www.github.com/TheBaronHimself) | [Twitter](http://www.twitter.com/TheBaronHimself))
 	* Created the Spaceblack-alt.tmTheme
   	* Added improvements to Spaceblack.sublime-theme
-  	* Restored user configuration options
+  	* Restored user configuration options and added xxl variants
   	* Updated readme
 
 
