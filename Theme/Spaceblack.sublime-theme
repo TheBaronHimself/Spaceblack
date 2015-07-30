@@ -8,7 +8,7 @@
     {
         "class": "tabset_control",
         "layer0.texture": "",
-        "layer0.tint": [16, 18, 22], // -00
+        "layer0.tint": [21, 23, 27], // -00
         "layer0.inner_margin": 0,
         "layer0.opacity": 1,
         "content_margin": 0,
@@ -30,7 +30,7 @@
         "max_margin_trim": 0,
         "hit_test_level": 0,
         "layer0.texture": "",
-        "layer0.tint": [16, 18, 22], // -00
+        "layer0.tint": [21, 23, 27], // -00
         "layer0.inner_margin": [5,5],
         "layer0.opacity": 1
     },
@@ -174,22 +174,22 @@
     // Tab Labels font size
     {
         "class": "tab_label",
-        "settings": ["spacegray_tabs_font_small"],
+        "settings": ["spaceblack_tabs_font_small"],
         "font.size": 10.0
     },
     {
         "class": "tab_label",
-        "settings": ["spacegray_tabs_font_normal"],
+        "settings": ["spaceblack_tabs_font_normal"],
         "font.size": 11.0
     },
     {
         "class": "tab_label",
-        "settings": ["spacegray_tabs_font_large"],
+        "settings": ["spaceblack_tabs_font_large"],
         "font.size": 12.0
     },
     {
         "class": "tab_label",
-        "settings": ["spacegray_tabs_font_xlarge"],
+        "settings": ["spaceblack_tabs_font_xlarge"],
         "font.size": 14.0
     },
 
@@ -368,7 +368,7 @@
 
     {
         "class": "minimap_control",
-        "viewport_color": [255,255,255,15]
+        "viewport_color": [195,230,255,28]
     },
 
 //
@@ -420,7 +420,7 @@
     {
         "class": "status_bar",
         "layer0.texture": "",
-        "layer0.tint": [16, 18, 22], // -00
+        "layer0.tint": [21, 23, 27], // -00
         "layer0.opacity": 1,
         "content_margin": 4
     },
@@ -445,7 +445,7 @@
         "class": "sidebar_container",
         // "layer0.texture": "",
         "layer0.opacity": 1,
-        "layer0.tint": [21, 23, 27], // -01
+        "layer0.tint": [29, 32, 38], // -01
         "layer0.inner_margin": [1,5,2,1],
         "content_margin": [0,4,0,0]
     },
@@ -462,7 +462,7 @@
     {
         "class": "tree_row",
         // "layer0.texture": "",
-        "layer0.tint": [41, 47, 55], // 01
+        "layer0.tint": [44, 51, 59], // 01
         "layer0.opacity": 0,
         "layer0.inner_margin": [1,1]
     },
@@ -480,28 +480,33 @@
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_xsmall"],
+        "settings": ["spaceblack_sidebar_tree_xsmall"],
         "row_padding": [8, 0]
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_small"],
+        "settings": ["spaceblack_sidebar_tree_small"],
         "row_padding": [8, 2]
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_normal"],
+        "settings": ["spaceblack_sidebar_tree_normal"],
         "row_padding": [8, 4]
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_large"],
+        "settings": ["spaceblack_sidebar_tree_large"],
         "row_padding": [8, 6]
     },
     {
         "class": "sidebar_tree",
-        "settings": ["spacegray_sidebar_tree_xlarge"],
+        "settings": ["spaceblack_sidebar_tree_xlarge"],
         "row_padding": [8, 8]
+    },
+    {
+        "class": "sidebar_tree",
+        "settings": ["spaceblack_sidebar_tree_xxlarge"],
+        "row_padding": [8, 10]
     },
     // Sidebar heading selected
     {
@@ -516,22 +521,22 @@
     },
     {
         "class": "sidebar_label",
-        "settings": ["spacegray_sidebar_font_small"],
+        "settings": ["spaceblack_sidebar_font_small"],
         "font.size": 10.0
     },
     {
         "class": "sidebar_label",
-        "settings": ["spacegray_sidebar_font_normal"],
+        "settings": ["spaceblack_sidebar_font_normal"],
         "font.size": 11.0
     },
     {
         "class": "sidebar_label",
-        "settings": ["spacegray_sidebar_font_large"],
+        "settings": ["spaceblack_sidebar_font_large"],
         "font.size": 12.0
     },
     {
         "class": "sidebar_label",
-        "settings": ["spacegray_sidebar_font_xlarge"],
+        "settings": ["spaceblack_sidebar_font_xlarge"],
         "font.size": 14.0
     },
     // Sidebar folder entry
@@ -1037,28 +1042,33 @@
     // Tab set
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_auto_width"],
+        "settings": ["spaceblack_tabs_auto_width"],
         "tab_width": 0
     },
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_small"],
+        "settings": ["spaceblack_tabs_small"],
         "tab_height": 22
     },
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_normal"],
+        "settings": ["spaceblack_tabs_normal"],
         "tab_height": 28
     },
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_large"],
+        "settings": ["spaceblack_tabs_large"],
         "tab_height": 34
     },
     {
         "class": "tabset_control",
-        "settings": ["spacegray_tabs_xlarge"],
+        "settings": ["spaceblack_tabs_xlarge"],
         "tab_height": 40
+    },
+        {
+        "class": "tabset_control",
+        "settings": ["spaceblack_tabs_xxlarge"],
+        "tab_height": 50
     },
 
 //
