@@ -1030,7 +1030,7 @@
 //
     {
         "class": "disclosure_button_control",
-        "settings": ["spacegray_color_expanded_folder"],
+        "settings": ["spaceblack_color_expanded_folder"],
         "attributes": ["expanded"],
         "layer0.tint": [254, 204, 102] // 0A
     },
