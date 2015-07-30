@@ -143,11 +143,15 @@ Tab height:
 
 ### Contributors
 
-* Simon-Claudius Wystrach ([Github](http://www.github.com/TheBaronHimself) | [Twitter](http://www.twitter.com/TheBaronHimself)) 
-  * Created the Spaceblack-alt.tmTheme
-  * Added improvements to Spaceblack.sublime-theme
-  * Restored user configuration options
-  * Updated readme
+* Simon-Claudius Wystrach ([Github](http://www.github.com/TheBaronHimself) | [Twitter](http://www.twitter.com/TheBaronHimself))
+	* Created the Spaceblack-alt.tmTheme
+  	* Added improvements to Spaceblack.sublime-theme
+  	* Restored user configuration options
+  	* Updated readme
+
+
+* Tomek Wójcik ([Github](https://github.com/tomekwojcik))
+	* Imported Spacegray icons
 
 ***
 
