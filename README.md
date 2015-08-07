@@ -80,7 +80,9 @@ Use the following (optional) settings to modify aspects of the theme. Per elemen
 ```
 
 #### Tab size
+
 Tab width:
+
 ```json
 "spaceblack_tabs_small": true
 ```
@@ -98,6 +100,7 @@ Tab width:
 ```
 
 Tab height:
+
 ```json
 "spaceblack_tabs_auto_width": true
 ```
@@ -145,15 +148,15 @@ Tab height:
 
 * Simon-Claudius Wystrach ([GitHub](http://www.github.com/TheBaronHimself) | [Twitter](http://www.twitter.com/TheBaronHimself))
 	- Owns the repo since August 5th, 2015
-    - Created the Spaceblack-alt.tmTheme
-  	- Added improvements to Spaceblack.sublime-theme
-  	- Restored user configuration options and added XXL variants
-  	- Updated documentation
+  - Created the Spaceblack-alt.tmTheme
+  - Added improvements to Spaceblack.sublime-theme
+  - Restored user configuration options and added XXL variants
+  - Updated documentation
 
-* Saad Quadri ([GitHub](https://github.com/saadq) | [Twitter](https://twitter.com/SaadQuadri)) 
-    - Initiated the project
-    - Owned the repo until August 5th, 2015
-    - Created Spaceblack-alt.tmTheme and Spaceblack.sublime-theme
+* Saad Quadri ([GitHub](https://github.com/saadq) | [Twitter](https://twitter.com/SaadQuadri))
+  - Initiated the project
+  - Owned the repo until August 5th, 2015
+  - Created Spaceblack-alt.tmTheme and Spaceblack.sublime-theme
 
 
 * Tomek Wójcik ([GitHub](https://github.com/tomekwojcik))
@@ -163,4 +166,4 @@ Tab height:
 
 ### Credits
 
-Spaceblack is based on the magnificent [Spacegray](https://github.com/kkga/spacegray) by [kkga](https://github.com/kkga). 
+Spaceblack is based on the magnificent [Spacegray](https://github.com/kkga/spacegray) by [kkga](https://github.com/kkga).
