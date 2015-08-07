@@ -1,6 +1,6 @@
 # Spaceblack
 
-A modified version of the popular [Spacegray](https://github.com/kkga/spacegray) theme for those who prefer a darker color.
+A modified version of the popular [Spacegray](https://github.com/kkga/spacegray) theme for those who prefer it dark.
 
 ***
 
@@ -38,7 +38,7 @@ You can also install the theme manually:
 
 ### Activation
 
-You can activate the theme and color scheme by modifying your Preferences-User file which you can find by using the menu item `Sublime Text -> Preferences -> Settings - User` (<kbd>⌘</kbd><kbd>,</kbd> on Mac).
+You can activate the theme and colour scheme by modifying your Preferences-User file which you can find by using the menu item `Sublime Text -> Preferences -> Settings - User` (<kbd>⌘</kbd><kbd>,</kbd> on Mac).
 
 #### Settings for Spaceblack
 
@@ -68,7 +68,7 @@ Use the following (optional) settings to modify aspects of the theme. Per elemen
 
 ```json
 "spaceblack_tabs_font_small": true
-````
+```
 ```json
 "spaceblack_tabs_font_normal": true
 ```
@@ -83,7 +83,7 @@ Use the following (optional) settings to modify aspects of the theme. Per elemen
 Tab width:
 ```json
 "spaceblack_tabs_small": true
-````
+```
 ```json
 "spaceblack_tabs_normal": true
 ```
@@ -143,18 +143,24 @@ Tab height:
 
 ### Contributors
 
-* Simon-Claudius Wystrach ([Github](http://www.github.com/TheBaronHimself) | [Twitter](http://www.twitter.com/TheBaronHimself))
-	* Created the Spaceblack-alt.tmTheme
-  	* Added improvements to Spaceblack.sublime-theme
-  	* Restored user configuration options and added xxl variants
-  	* Updated readme
+* Simon-Claudius Wystrach ([GitHub](http://www.github.com/TheBaronHimself) | [Twitter](http://www.twitter.com/TheBaronHimself))
+	- Owns the repo since August 5th, 2015
+    - Created the Spaceblack-alt.tmTheme
+  	- Added improvements to Spaceblack.sublime-theme
+  	- Restored user configuration options and added XXL variants
+  	- Updated documentation
+
+* Saad Quadri ([GitHub](https://github.com/saadq) | [Twitter](https://twitter.com/SaadQuadri)) 
+    - Initiated the project
+    - Owned the repo until August 5th, 2015
+    - Created Spaceblack-alt.tmTheme and Spaceblack.sublime-theme
 
 
-* Tomek Wójcik ([Github](https://github.com/tomekwojcik))
-	* Imported Spacegray icons
+* Tomek Wójcik ([GitHub](https://github.com/tomekwojcik))
+	- Imported Spacegray icons
 
 ***
 
 ### Credits
 
-The [Spacegray](https://github.com/kkga/spacegray) theme was created by [kkga](https://github.com/kkga). 
+Spaceblack is based on the magnificent [Spacegray](https://github.com/kkga/spacegray) by [kkga](https://github.com/kkga). 
