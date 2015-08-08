@@ -81,7 +81,7 @@ Use the following (optional) settings to modify aspects of the theme. Per elemen
 
 #### Tab size
 
-Tab width:
+Tab height:
 
 ```json
 "spaceblack_tabs_small": true
@@ -99,7 +99,7 @@ Tab width:
 "spaceblack_tabs_xxlarge": true
 ```
 
-Tab height:
+Tab width:
 
 ```json
 "spaceblack_tabs_auto_width": true
