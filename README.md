@@ -59,7 +59,7 @@ You can activate the theme and colour scheme by modifying your Preferences-User 
 }
 ```
 
-#### Settings for Spaceblack with Momokai color scheme
+#### Settings for Spaceblack with Monokai color scheme
 
 ```json
 {
