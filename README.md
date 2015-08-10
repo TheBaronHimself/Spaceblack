@@ -5,12 +5,13 @@ A modified version of the popular [Spacegray](https://github.com/kkga/spacegray)
 ***
 
 #### Spaceblack with Spaceblack.tmTheme
-
 ![image](Screenshots/Spaceblack.png)
 
 #### Spaceblack with Spaceblack-alt.tmTheme
-
 ![image](Screenshots/Spaceblack-alt.png)
+
+#### Spaceblack with Spaceblack-Monokai.tmTheme
+![image](Screenshots/Spaceblack-Monokai.png)
 
 *The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe/Source-Code-Pro).*
 
@@ -55,6 +56,15 @@ You can activate the theme and colour scheme by modifying your Preferences-User 
 {
   "theme": "Spaceblack.sublime-theme",
   "color_scheme": "Packages/Theme - Spaceblack/Color Schemes/Spaceblack-alt.tmTheme"
+}
+```
+
+#### Settings for Spaceblack with Momokai color scheme
+
+```json
+{
+  "theme": "Spaceblack.sublime-theme",
+  "color_scheme": "Packages/Theme - Spaceblack/Color Schemes/Spaceblack-Monokai.tmTheme"
 }
 ```
 
@@ -149,14 +159,14 @@ Tab width:
 * Simon-Claudius Wystrach ([GitHub](http://www.github.com/TheBaronHimself) | [Twitter](http://www.twitter.com/TheBaronHimself))
 	- Owns the repo since August 5th, 2015
   - Created the Spaceblack-alt.tmTheme
-  - Added improvements to Spaceblack.sublime-theme
+  - Added changes/improvements to Spaceblack.sublime-theme, Spaceblack.tmTheme and Spaceblack-Monokai.tmTheme
   - Restored user configuration options and added XXL variants
   - Updated documentation
 
 * Saad Quadri ([GitHub](https://github.com/saadq) | [Twitter](https://twitter.com/SaadQuadri))
   - Initiated the project
   - Owned the repo until August 5th, 2015
-  - Created Spaceblack-alt.tmTheme and Spaceblack.sublime-theme
+  - Created Spaceblack.sublime-theme, Spaceblack-alt.tmTheme and Spaceblack-Monokai.tmTheme
 
 
 * Tomek Wójcik ([GitHub](https://github.com/tomekwojcik))
