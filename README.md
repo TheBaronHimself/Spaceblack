@@ -41,7 +41,7 @@ You can also install the theme manually:
 
 You can activate the theme and colour scheme by modifying your Preferences-User file which you can find by using the menu item `Sublime Text -> Preferences -> Settings - User` (<kbd>⌘</kbd><kbd>,</kbd> on Mac).
 
-#### Settings for Spaceblack
+#### Settings for Spaceblack with default colour scheme
 
 ```json
 {
@@ -50,7 +50,7 @@ You can activate the theme and colour scheme by modifying your Preferences-User 
 }
 ```
 
-#### Settings for Spaceblack with the alternate color scheme
+#### Settings for Spaceblack with the alternate colour scheme
 
 ```json
 {
@@ -59,7 +59,7 @@ You can activate the theme and colour scheme by modifying your Preferences-User 
 }
 ```
 
-#### Settings for Spaceblack with Monokai color scheme
+#### Settings for Spaceblack with Monokai colour scheme
 
 ```json
 {
