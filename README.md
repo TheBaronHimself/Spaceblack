@@ -155,7 +155,7 @@ Tab width:
 
 ###Extras
 ####Spaceblack  is now available for Alfred
-**Download:** [Spaceblack 1.0](https://github.com/TheBaronHimself/Spaceblack/raw/master/Extras/Spaceblack-1.0.alfredappearance)
+**Download:** [Spaceblack 1.0](Extras/SpaceblackAlfred-1.0.zip)
 
 ![image](Screenshots/SpaceblackAlfred.png)
 
