@@ -153,6 +153,13 @@ Tab width:
 ```
 ***
 
+###Extras
+####Spaceblack  is now available for Alfred
+**Download:** [Spaceblack 1.0](Extras/Spaceblack-1.0.alfredappearance)
+
+![image](Screenshots/SpaceblackAlfred.png)
+
+
 
 ### Contributors
 
@@ -161,6 +168,7 @@ Tab width:
   - Created the Spaceblack-alt.tmTheme
   - Added changes/improvements to Spaceblack.sublime-theme, Spaceblack.tmTheme and Spaceblack-Monokai.tmTheme
   - Restored user configuration options and added XXL variants
+  - Created Spaceblack for Alfred
   - Updated documentation
 
 * Saad Quadri ([GitHub](https://github.com/saadq) | [Twitter](https://twitter.com/SaadQuadri))
